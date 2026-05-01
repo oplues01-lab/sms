@@ -1,0 +1,67 @@
+
+TO DO
+
+
+REPORTCARD SHUOULD SHOW 
+GRADE,
+POSITION, 
+AVERAGE,
+
+ 
+CLASS TEACHER COMMENT
+PRINCIPAL COMMENT
+
+maybe  a general function that calculate gradem position by class and by class and clasarm
+and annual resul computation
+
+ca score format ca1 and ca2 exam 
+
+extra modules to create
+Comments
+
+use oplues01@glmail claude
+
+Add edit and delete in singgle view result  and the the genral position rescalculator must be called immediatelty
+Add export or download feature to the mastersheet 
+
+mastersheet and single result table should be scrollablw
+
+MODULE 
+
+TEACHER ATTENDANCE
+STUDENT ATTENDANCE
+
+FEE SETUP 
+
+IN MASTERSHEET CLICKING ADMISSION NUMBER SHOULD TAKE ME TO THE DETAIL OF THE STUDENT 
+
+
+STUDENT PROMOTION MODUE 
+
+in student portal  clciking result says Route [student.assignments.show] not defined.
+
+MQKE THE CHECK RESULT FEATURE TO WORK 
+
+MAKE THE STUDENT IMAGE TO APPEAR EVERYWHERE ON THE STUDENT PORTAL AND STUDENT ID CARD 
+
+FIX THIS ROUTE FOR PRINTING THE ID CARD View [students.idcard-print] not found.
+
+HANDLE THIS ERROR WELL WHEN UPLOADING EXCEL LIST OF STUDENT WELL 
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'IGO@gmail.com' for key 'users_email_unique' (Connection: mysql, SQL: insert into `users` (`name`, `email`, `password`, `updated_at`, `created_at`) values (Chioma IGO, IGO@gmail.com, 
+
+IF THE EMAIL ALREADY EXIST IT SHOULD SAY EMAIL ALREADY EXIST
+
+
+
+MAKE STAFF IMAGE TO SHOW  ALL NECESSARY PLACES
+
+
+TEACHER DASHBOARD SHOULD BE ALL ABOUT TEACHER  STUDENT INFO
+
+CREATING UNIQUE PASSWORD TO TEACH TEACHER
+
+
+
+
+
+
