@@ -18,7 +18,7 @@ return new class extends Migration
             $table->string('photo')->nullable();
             $table->foreignId('user_id')->constrained()->onDelete('cascade');
             $table->string('admission_no')->unique();
-            $table->boolean('status')->default(1)->after('admission_no');
+            $table->boolean('status')->default(1);
             $table->string('rpin')->unique();
             $table->foreignId('class_id')->constrained()->onDelete('cascade');
             $table->foreignId('class_arm_id')->constrained()->onDelete('cascade');
