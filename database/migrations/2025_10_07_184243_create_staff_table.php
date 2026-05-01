@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('photo')->nullable();
             $table->string('phone')->nullable();
             // $table->text('address')->nullable();       
-            $table->boolean('status')->default(1)->after('salary'); // 1 = active, 0 = inactive
+            $table->boolean('status')->default(1); // 1 = active, 0 = inactive
             $table->timestamps();
         });
     }
