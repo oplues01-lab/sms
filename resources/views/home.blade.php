@@ -340,15 +340,15 @@
                     <ul class="space-y-2">
                         <li class="flex items-start">
                             <i class="fas fa-map-marker-alt mr-2 mt-1 text-blue-400"></i>
-                            <span>123 Education Street, Learning City</span>
+                            <span>Enugu, Nigeria</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-phone mr-2 mt-1 text-blue-400"></i>
-                            <span>+1 (555) 123-4567</span>
+                            <span>+2348066686958</span>
                         </li>
                         <li class="flex items-start">
                             <i class="fas fa-envelope mr-2 mt-1 text-blue-400"></i>
-                            <span>info@edumanagepro.com</span>
+                            <span>support@oplueasws.com</span>
                         </li>
                     </ul>
                 </div>
